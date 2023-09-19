@@ -2,9 +2,6 @@
 layout: post
 title: Cybersecurity Vulnerabilities
 subtitle: Santhosh's first blog!
-# cover-img: /assets/img/path.jpg
-# thumbnail-img: /assets/img/thumb.png
-# share-img: /assets/img/path.jpg
 tags: [kare, cybersecurity, assessment, cyber, security]
 ---
 
